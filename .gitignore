@@ -1,0 +1,15 @@
+# Node
+node_modules/
+dist/
+.vite/
+*.log
+
+# Go
+bin/
+build/
+coverage*.out
+
+# OS/IDE
+.DS_Store
+.idea/
+.vscode/
